@@ -1,1 +1,5 @@
 Create a working over/under sampling method, and have that implemented in at least on model (as a group)
+
+refernces:
+https://machinelearningmastery.com/random-oversampling-and-undersampling-for-imbalanced-classification/
+https://towardsdatascience.com/natural-language-processing-classification-using-deep-learning-and-word2vec-50cbadd3bd6a
