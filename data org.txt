@@ -1,0 +1,6 @@
+train.csv -> split into train/test data
+
+test.csv -> rename to validation data
+
+
+Select models based on train/test data. Then in final report, compaire results using validation data.
